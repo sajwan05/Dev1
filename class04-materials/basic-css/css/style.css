@@ -7,7 +7,7 @@ h2{
     color:purple;
     font-weight:bold;
     font-size:25px;
-    border:1px solid orange;
+    border:5px solid orange;
     
 }
 
@@ -28,5 +28,5 @@ footer{
 h3{
     color:white;
     font-size:20px;
-    font-family:Roboto sans-serif;
+    font-family: 'Lobster Two', sans-serif;
 }
